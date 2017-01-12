@@ -1,0 +1,25 @@
+{
+  "name": "nucleus-ui",
+  "version": "0.0.0",
+  "description": "React atomic component library",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aholddelhaize/nucleus-ui.git"
+  },
+  "keywords": [
+    "react",
+    "atomic",
+    "component",
+    "library"
+  ],
+  "author": "Ahold Delhaize, Albert Heijn Frontend Development Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aholddelhaize/nucleus-ui/issues"
+  },
+  "homepage": "https://github.com/aholddelhaize/nucleus-ui#readme"
+}
